@@ -1,6 +1,6 @@
 # RESPONSIVIDADE COM MOBILE-FIRST: ALURA BOOKS :woman_technologist:
 
-#### :globe_with_meridians: [LINK PARA O PROJETO ORGINAL NO FIGMA]() 
+#### :globe_with_meridians: [LINK PARA O PROJETO ORGINAL NO FIGMA](https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks?node-id=37%3A94) 
 
 ## Criação do Header e da Seção Banner :books:
 
