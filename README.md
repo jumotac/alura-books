@@ -12,3 +12,13 @@
 - Position relative e absolute;
 - Criar sections;
 - Editar **input e seu placeholder**.
+
+## Criação das seções: Novos Lançamentos, Mais Vendidos, Topicos, Contatos e Rodapé :books:
+
+### Nessa aula, aprendi como:
+- **Aplicar plugins externos** através de **CDN**;
+- Utilizar o **plugin SwiperJS**;
+- Reforçar o aprendizado de flexbox;
+- Reutilizar elementos e estilos;
+- Criar listas;
+- Editar input e seu placeholder.
