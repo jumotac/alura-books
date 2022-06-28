@@ -22,3 +22,11 @@
 - Reutilizar elementos e estilos;
 - Criar listas;
 - Editar input e seu placeholder.
+
+## Adaptação do Layout para TABLET (1024px) :books:
+
+### Nessa aula, aprendi como:
+- Usar **media queries**;
+- Aplicar diferentes estilos para diferentes tamanhos de tela;
+- Retirar elementos da tela;
+- Aplicar elementos na tela de acordo com o tamanho do dispositivo.
