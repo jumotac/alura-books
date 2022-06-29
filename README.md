@@ -36,3 +36,8 @@
 ### Nessa aula, aprendi como:
 - Aplicar estilos com media queries diferentes;
 - Usar estilos diferentes no mesmo **elemento com pseudo-classe.**
+
+## AGRADECIMENTOS:
+  
+- Instrutora: **Mônica Mazzochi Hillman**
+- [Alura](www.alura.com.br)   
