@@ -30,3 +30,9 @@
 - Aplicar diferentes estilos para diferentes tamanhos de tela;
 - Retirar elementos da tela;
 - Aplicar elementos na tela de acordo com o tamanho do dispositivo.
+
+## Adaptação do Layout para DESKTOP (1728px) :books:
+
+### Nessa aula, aprendi como:
+- Aplicar estilos com media queries diferentes;
+- Usar estilos diferentes no mesmo **elemento com pseudo-classe.**
