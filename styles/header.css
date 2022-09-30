@@ -67,6 +67,13 @@
     text-transform: uppercase;
 }
 
+.opcoes__item:hover,
+.opcoes__link:hover,
+.container__texto:hover {
+    color: var(--azul-claro);
+    font-weight: bold;
+}
+
 .container__botao,
 .container__titulo,
 .opcoes,
@@ -99,6 +106,7 @@
         padding: 2em 1em;
         text-transform: uppercase;
     }
+
     .opcoes__link {
         text-decoration: none;
         color: var(--azul-escuro);
