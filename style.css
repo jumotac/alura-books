@@ -6,22 +6,38 @@
 @import url("./styles/rodape.css");
 
 :root {
-    --cor-de-findo: #EBECEE;
+    --cor-de-fundo: #f7f0f7;
     --branco: #FFFFFF;
     --laranja: #EB9800;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --fonte-principal: 'Poppins';
-    --azul: #002F52;
+    /* --azul: #002F52; */
     --fonte-secundario: "Josefin Sans";
     --preto: #000000;
     --cinza: #474646;
     --cinza-claro: #858585;
+
+    --roxo-degrade: linear-gradient(90deg, #6B0654, #040306 35.49%, #1B0661 165.37%);
+    --botao-degrade: linear-gradient(90deg, #040306 10%, #1B0661, #B02799);
+    --branco-transparente: #ffffff5e;
+    --azul-claro: #0A8CDD;
+    --azul-escuro: #1B0661;
+    --azul-transparente: #1b066177;
+    --lilas: #7031C2;
+    --rosa: #B02799;
+    --rosa-hover: #e27fd2;
+    --roxo: #6B0654;
+    --verde: #74A4AF;
+    --preto: #040306;
+    --preto-hover: #1b132d;
+    
 }
 
 body {
-    background-color: var(--cor-de-findo);
+    background: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
     font-size: 16px;
     font-weight: 400;
-}
+} 
+
 

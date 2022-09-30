@@ -33,11 +33,26 @@
 
 ## Adaptação do Layout para DESKTOP (1728px) :books:
 
+
 ### Nessa aula, aprendi como:
 - Aplicar estilos com media queries diferentes;
 - Usar estilos diferentes no mesmo **elemento com pseudo-classe.**
+
+
+### :wrench:Ferramentas:
+
+Ferramentas utilizadas para auxiliar na execução do projeto:
+
+- **Visual Studio Code** - editor de código
+
+- **Github** - Para estruturar o portfólio 
+
 
 ## AGRADECIMENTOS:
   
 - Instrutora: **Mônica Mazzochi Hillman**
 - [Alura](www.alura.com.br)   
+
+
+ <p align="center">Desenvolvido 💗 por <a href="https://github.com/jumotac">Ju Mota</a></p>
+

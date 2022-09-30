@@ -1,5 +1,5 @@
 .topicos {
-    background: var(--azul-degrade);
+    background: var(--roxo-degrade);
     text-align: center;
     padding: 1em 0;
 }
@@ -23,11 +23,19 @@
 
 .topicos__link {
     color: var(--branco);
-    padding: 1em;
-    background-color: var(--laranja);
+    padding: .5em;
+    border-radius: 10px;
+    border: 1px solid  var(--roxo); 
+    background: var(--preto); 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
     text-decoration: none;
     font-size: 14px;
     font-weight: 700;
+}
+
+.topicos__link:hover {
+    background: var(--roxo);
+    border: 1px solid  var(--lilas); 
 }
 
 
