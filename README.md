@@ -3,15 +3,11 @@
 | :sparkles: Nome | **Alura Books** 
 | :label: Tecnologias | HTML, CSS 
 | :rocket: URL | https://jumotac.github.io/alura-books/
-| :fire: Desafio | Crie Páginas Responsivas com Mobile-First
+| :fire: Desafio | Responsividade com Mobile-First:
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/jumotac/alura-books/b1b7fe4d1388e2306788334c3a1468085c82cd68/img/alura-books.png#vitrinedev)
 
-
-# RESPONSIVIDADE COM MOBILE-FIRST: ALURA BOOKS :woman_technologist:
-
-#### :globe_with_meridians: [LINK PARA O PROJETO ORGINAL NO FIGMA](https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks?node-id=37%3A94) 
 
 ## Criação do Header e da Seção Banner :books:
 
@@ -58,10 +54,12 @@ Ferramentas utilizadas para auxiliar na execução do projeto:
 
 - **Github** - Para estruturar o portfólio 
 
+- **Figma** - Para ter acesso ao [PROJETO ORGINAL NO FIGMA](https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks?node-id=37%3A94) 
 
 ## AGRADECIMENTOS:
-  
-- Instrutora: **Mônica Mazzochi Hillman**
+
+Instrutora:
+- [Mônica Mazzochi Hillman](https://www.linkedin.com/in/monicamhillman/);
 - [Alura](www.alura.com.br)   
 
 
